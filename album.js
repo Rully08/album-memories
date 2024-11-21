@@ -33,13 +33,6 @@ new Vue({
           isOpen: false,
         },
         {
-          img1: "images/body 3.jpg",
-          img1: "images/body 3.jpg",
-          img1: "images/body 3.jpg",
-          title: "PAGE 5",
-          isOpen: false,
-        },
-        {
           img1: "images/bocil1.png",
           img2: "images/bocil2.png",
           img3: "images/bocil5.png",
