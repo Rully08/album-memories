@@ -34,8 +34,8 @@ new Vue({
         },
         {
           img1: "images/body 3.jpg",
-          img2: "images/body 2.jpg",
-          img3: "images/face 7.jpg",
+          img1: "images/body 3.jpg",
+          img1: "images/body 3.jpg",
           title: "PAGE 5",
           isOpen: false,
         },
