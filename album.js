@@ -6,14 +6,14 @@ new Vue({
       items: [
         {
           img1: "images/face 1.jpg",
-          img2: "images/cakep1.jpg",
+          img2: "images/face 2.jpg",
           img3: "images/face 3.jpg",
           title: "PAGE 1",
           isOpen: false,
         },
         {
           img1: "images/face 4.jpg",
-          img2: "images/cakep2.jpg",
+          img2: "images/face 5.jpg",
           img3: "images/face 6.jpg",
           title: "PAGE 2",
           isOpen: false,
